@@ -1,0 +1,14 @@
+C:\Users\rmene\source\repos\WebApi-TESTE-BACKEND-Rosembergue\WebApi-TESTE-BACKEND-Rosembergue\bin\Debug\netcoreapp2.1\WebApi-TESTE-BACKEND-Rosembergue.deps.json
+C:\Users\rmene\source\repos\WebApi-TESTE-BACKEND-Rosembergue\WebApi-TESTE-BACKEND-Rosembergue\bin\Debug\netcoreapp2.1\WebApi-TESTE-BACKEND-Rosembergue.runtimeconfig.json
+C:\Users\rmene\source\repos\WebApi-TESTE-BACKEND-Rosembergue\WebApi-TESTE-BACKEND-Rosembergue\bin\Debug\netcoreapp2.1\WebApi-TESTE-BACKEND-Rosembergue.runtimeconfig.dev.json
+C:\Users\rmene\source\repos\WebApi-TESTE-BACKEND-Rosembergue\WebApi-TESTE-BACKEND-Rosembergue\bin\Debug\netcoreapp2.1\WebApi-TESTE-BACKEND-Rosembergue.dll
+C:\Users\rmene\source\repos\WebApi-TESTE-BACKEND-Rosembergue\WebApi-TESTE-BACKEND-Rosembergue\bin\Debug\netcoreapp2.1\WebApi-TESTE-BACKEND-Rosembergue.pdb
+C:\Users\rmene\source\repos\WebApi-TESTE-BACKEND-Rosembergue\WebApi-TESTE-BACKEND-Rosembergue\obj\Debug\netcoreapp2.1\WebApi-TESTE-BACKEND-Rosembergue.csprojAssemblyReference.cache
+C:\Users\rmene\source\repos\WebApi-TESTE-BACKEND-Rosembergue\WebApi-TESTE-BACKEND-Rosembergue\obj\Debug\netcoreapp2.1\WebApi-TESTE-BACKEND-Rosembergue.csproj.CoreCompileInputs.cache
+C:\Users\rmene\source\repos\WebApi-TESTE-BACKEND-Rosembergue\WebApi-TESTE-BACKEND-Rosembergue\obj\Debug\netcoreapp2.1\WebApi-TESTE-BACKEND-Rosembergue.RazorAssemblyInfo.cache
+C:\Users\rmene\source\repos\WebApi-TESTE-BACKEND-Rosembergue\WebApi-TESTE-BACKEND-Rosembergue\obj\Debug\netcoreapp2.1\WebApi-TESTE-BACKEND-Rosembergue.RazorAssemblyInfo.cs
+C:\Users\rmene\source\repos\WebApi-TESTE-BACKEND-Rosembergue\WebApi-TESTE-BACKEND-Rosembergue\obj\Debug\netcoreapp2.1\WebApi-TESTE-BACKEND-Rosembergue.AssemblyInfoInputs.cache
+C:\Users\rmene\source\repos\WebApi-TESTE-BACKEND-Rosembergue\WebApi-TESTE-BACKEND-Rosembergue\obj\Debug\netcoreapp2.1\WebApi-TESTE-BACKEND-Rosembergue.AssemblyInfo.cs
+C:\Users\rmene\source\repos\WebApi-TESTE-BACKEND-Rosembergue\WebApi-TESTE-BACKEND-Rosembergue\obj\Debug\netcoreapp2.1\WebApi-TESTE-BACKEND-Rosembergue.RazorTargetAssemblyInfo.cache
+C:\Users\rmene\source\repos\WebApi-TESTE-BACKEND-Rosembergue\WebApi-TESTE-BACKEND-Rosembergue\obj\Debug\netcoreapp2.1\WebApi-TESTE-BACKEND-Rosembergue.dll
+C:\Users\rmene\source\repos\WebApi-TESTE-BACKEND-Rosembergue\WebApi-TESTE-BACKEND-Rosembergue\obj\Debug\netcoreapp2.1\WebApi-TESTE-BACKEND-Rosembergue.pdb
